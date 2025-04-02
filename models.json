@@ -1,0 +1,25 @@
+{
+    "brands": [
+      {
+        "name": "iPhone",
+        "models": ["SE", "6", "6 Plus", "7", "7 Plus", "8", "8 Plus", "X", "XR", "XS Max",
+        "11", "11 Pro", "11 Pro Max", "12", "12 Mini", "12 Pro", "12 Pro Max",
+        "13", "13 Mini", "13 Pro", "13 Pro Max", "14", "14 Plus", "14 Pro", "14 Pro Max",
+        "15", "15 Plus", "15 Pro", "15 Pro Max"]
+      },
+      {
+        "name": "Samsung",
+        "models": ["A01", "A02", "A02s", "A03", "A03s", "A05", "A05s", "A10", "A20", "A21", "A21s",
+        "A22 4G", "A22 5G", "A23", "A30", "A31", "A32 4G", "A32 5G", "A33", "A40", "A41",
+        "A42", "A50", "A51", "A52", "A53", "A60", "A70", "A71", "A72", "A80", "A90",
+        "Note 8", "Note 9", "Note 10", "Note 10 Plus", "Note 20", "Note 20 Ultra",
+        "S6", "S6 Edge", "S6 Edge+", "S7", "S7 Edge", "S8", "S8 Plus", "S9", "S9 Plus",
+        "S10", "S10e", "S10 Plus", "S10 Lite", "S20", "S20 FE", "S20 Plus", "S21", "S21 FE",
+        "S21 Plus", "S21 Ultra", "S22", "S22 Plus", "S22 Ultra", "S23", "S23 FE",
+        "S23 Plus", "S23 Ultra", "S24", "S24 FE", "S24 Plus", "S24 Ultra", "S25",
+        "S25 Plus", "S25 Ultra", "Z Flip 3", "Z Flip 4", "Z Flip 5", "Z Fold 3",
+        "Z Fold 4", "Z Fold 5"]
+      }
+    ]
+  }
+  

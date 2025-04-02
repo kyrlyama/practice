@@ -1,0 +1,606 @@
+{
+  "cases": [
+{"brand": "iPhone", "model": " SE", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 11, "quantity": 3, "color": "Черный"},
+{"brand": "iPhone", "model": " SE", "case_type": "Силиконовая панель", "gender": "Женский", "price": 9, "quantity": 2, "color": "Розовый"},
+{"brand": "iPhone", "model": " SE", "case_type": "Чехол книжка", "gender": "Мужской", "price": 11, "quantity": 1, "color": "Коричневый"},
+{"brand": "iPhone", "model": " SE", "case_type": "Чехол книжка", "gender": "Женский", "price": 12, "quantity": 4, "color": "Красный"},
+  
+{"brand": "iPhone", "model": "6", "case_type": "Силиконовая панель", "gender": "Женский", "price": 11, "quantity": 2, "color": "Красный"},
+{"brand": "iPhone", "model": "6", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 8, "quantity": 2, "color": "Черный"},
+{"brand": "iPhone", "model": "6", "case_type": "Чехол книжка", "gender": "Женский", "price": 12, "quantity": 2, "color": "Золотистый"},
+{"brand": "iPhone", "model": "6", "case_type": "Чехол книжка", "gender": "Мужской", "price": 10, "quantity": 2, "color": "Синий"},
+   
+{"brand": "iPhone", "model": "6 Plus", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 9, "quantity": 2, "color": "Темно-синий"},
+{"brand": "iPhone", "model": "6 Plus", "case_type": "Силиконовая панель", "gender": "Женский", "price": 10, "quantity": 3, "color": "Желтый"},
+{"brand": "iPhone", "model": "6 Plus", "case_type": "Чехол книжка", "gender": "Мужской", "price": 12, "quantity": 2, "color": "Серый"},
+{"brand": "iPhone", "model": "6 Plus", "case_type": "Чехол книжка", "gender": "Женский", "price": 10, "quantity": 1, "color": "Голубой"},
+
+{"brand": "iPhone", "model": "7", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 12, "quantity": 3, "color": "Красный"},
+{"brand": "iPhone", "model": "7", "case_type": "Силиконовая панель", "gender": "Женский", "price": 8, "quantity": 2, "color": "Лавандовый"},
+{"brand": "iPhone", "model": "7", "case_type": "Чехол книжка", "gender": "Мужской", "price": 13, "quantity": 4, "color": "Черный"},
+{"brand": "iPhone", "model": "7", "case_type": "Чехол книжка", "gender": "Женский", "price": 10, "quantity": 2, "color": "Золотистый"},
+
+{"brand": "iPhone", "model": "7 Plus", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 7, "quantity": 2, "color": "Темно-зеленый"},
+{"brand": "iPhone", "model": "7 Plus", "case_type": "Силиконовая панель", "gender": "Женский", "price": 10, "quantity": 1, "color": "Фиолетовый"},
+{"brand": "iPhone", "model": "7 Plus", "case_type": "Чехол книжка", "gender": "Мужской", "price": 12, "quantity": 3, "color": "Синий"},
+{"brand": "iPhone", "model": "7 Plus", "case_type": "Чехол книжка", "gender": "Женский", "price": 13, "quantity": 2, "color": "Бежевый"},
+
+{"brand": "iPhone", "model": "8", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 9, "quantity": 3, "color": "Черный"},
+{"brand": "iPhone", "model": "8", "case_type": "Силиконовая панель", "gender": "Женский", "price": 6, "quantity": 2, "color": "Розовый"},
+{"brand": "iPhone", "model": "8", "case_type": "Чехол книжка", "gender": "Мужской", "price": 11, "quantity": 1, "color": "Коричневый"},
+{"brand": "iPhone", "model": "8", "case_type": "Чехол книжка", "gender": "Женский", "price": 10, "quantity": 4, "color": "Красный"},
+
+{"brand": "iPhone", "model": "8 Plus", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 7, "quantity": 2, "color": "Темно-синий"},
+{"brand": "iPhone", "model": "8 Plus", "case_type": "Силиконовая панель", "gender": "Женский", "price": 11, "quantity": 3, "color": "Желтый"},
+{"brand": "iPhone", "model": "8 Plus", "case_type": "Чехол книжка", "gender": "Мужской", "price": 12, "quantity": 2, "color": "Серый"},
+{"brand": "iPhone", "model": "8 Plus", "case_type": "Чехол книжка", "gender": "Женский", "price": 14, "quantity": 1, "color": "Голубой"}, 
+
+{"brand": "iPhone", "model": " X", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 18, "quantity": 3, "color": "Красный"},
+{"brand": "iPhone", "model": " X", "case_type": "Силиконовая панель", "gender": "Женский", "price": 17, "quantity": 2, "color": "Лавандовый"},
+{"brand": "iPhone", "model": " X", "case_type": "Чехол книжка", "gender": "Мужской", "price": 20, "quantity": 4, "color": "Черный"},
+{"brand": "iPhone", "model": " X", "case_type": "Чехол книжка", "gender": "Женский", "price": 19, "quantity": 2, "color": "Золотистый"},
+
+{"brand": "iPhone", "model": " XS Max", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 19, "quantity": 2, "color": "Темно-зеленый"},
+{"brand": "iPhone", "model": " XS Max", "case_type": "Силиконовая панель", "gender": "Женский", "price": 18, "quantity": 1, "color": "Фиолетовый"},
+{"brand": "iPhone", "model": " XS Max", "case_type": "Чехол книжка", "gender": "Мужской", "price": 21, "quantity": 3, "color": "Синий"},
+{"brand": "iPhone", "model": " XS Max", "case_type": "Чехол книжка", "gender": "Женский", "price": 20, "quantity": 2, "color": "Бежевый"},
+
+{"brand": "iPhone", "model": " XR", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 18, "quantity": 3, "color": "Синий"},
+{"brand": "iPhone", "model": " XR", "case_type": "Силиконовая панель", "gender": "Женский", "price": 17, "quantity": 2, "color": "Розовый"},
+{"brand": "iPhone", "model": " XR", "case_type": "Чехол книжка", "gender": "Мужской", "price": 19, "quantity": 4, "color": "Черный"},
+{"brand": "iPhone", "model": " XR", "case_type": "Чехол книжка", "gender": "Женский", "price": 18, "quantity": 2, "color": "Жёлтый"},
+
+{"brand": "iPhone", "model": "11", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 14, "quantity": 3, "color": "Синий"},
+{"brand": "iPhone", "model": "11", "case_type": "Силиконовая панель", "gender": "Женский", "price": 13, "quantity": 2, "color": "Розовый"},
+{"brand": "iPhone", "model": "11", "case_type": "Чехол книжка", "gender": "Мужской", "price": 16, "quantity": 1, "color": "Черный"},
+{"brand": "iPhone", "model": "11", "case_type": "Чехол книжка", "gender": "Женский", "price": 17, "quantity": 4, "color": "Бежевый"},
+
+{"brand": "iPhone", "model": "11 Pro", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 15, "quantity": 2, "color": "Темно-зеленый"},
+{"brand": "iPhone", "model": "11 Pro", "case_type": "Силиконовая панель", "gender": "Женский", "price": 12, "quantity": 3, "color": "Лавандовый"},
+{"brand": "iPhone", "model": "11 Pro", "case_type": "Чехол книжка", "gender": "Мужской", "price": 18, "quantity": 2, "color": "Коричневый"},
+{"brand": "iPhone", "model": "11 Pro", "case_type": "Чехол книжка", "gender": "Женский", "price": 16, "quantity": 1, "color": "Белый"},
+
+{"brand": "iPhone", "model": "11 Pro Max", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 17, "quantity": 3, "color": "Красный"},
+{"brand": "iPhone", "model": "11 Pro Max", "case_type": "Силиконовая панель", "gender": "Женский", "price": 14, "quantity": 2, "color": "Желтый"},
+{"brand": "iPhone", "model": "11 Pro Max", "case_type": "Чехол книжка", "gender": "Мужской", "price": 19, "quantity": 4, "color": "Серый"},
+{"brand": "iPhone", "model": "11 Pro Max", "case_type": "Чехол книжка", "gender": "Женский", "price": 15, "quantity": 2, "color": "Голубой"},    
+
+{"brand": "iPhone", "model": "12 Mini", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 15, "quantity": 2, "color": "Красный"},
+{"brand": "iPhone", "model": "12 Mini", "case_type": "Чехол книжка", "gender": "Мужской", "price": 15, "quantity": 3, "color": "Черный"},
+{"brand": "iPhone", "model": "12 Mini", "case_type": "Силиконовая панель", "gender": "Женский", "price": 1, "quantity": 2, "color": "Розовый"},
+{"brand": "iPhone", "model": "12 Mini", "case_type": "Чехол книжка", "gender": "Женский", "price": 15, "quantity": 1, "color": "Белый"},
+
+{"brand": "iPhone","model": "12","case_type": "Силиконовая панель","gender": "Женский","price": 14,"quantity": 2,"color": "Розовый"},
+{"brand": "iPhone", "model": "12", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 12, "quantity": 4, "color": "Синий"},
+{"brand": "iPhone", "model": "12", "case_type": "Чехол книжка", "gender": "Мужской", "price": 15, "quantity": 2, "color": "Коричневый"},
+{"brand": "iPhone", "model": "12", "case_type": "Силиконовая панель", "gender": "Женский", "price": 11, "quantity": 3, "color": "Фиолетовый"},
+{"brand": "iPhone", "model": "12", "case_type": "Чехол книжка", "gender": "Женский", "price": 16, "quantity": 2, "color": "Бежевый"},
+
+{"brand": "iPhone", "model": "12 Pro", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 14, "quantity": 3, "color": "Темно-зеленый"},
+{"brand": "iPhone", "model": "12 Pro", "case_type": "Чехол книжка", "gender": "Мужской", "price": 15, "quantity": 2, "color": "Темно-серый"},
+{"brand": "iPhone", "model": "12 Pro", "case_type": "Силиконовая панель", "gender": "Женский", "price": 13, "quantity": 3, "color": "С цветами"},
+{"brand": "iPhone", "model": "12 Pro", "case_type": "Чехол книжка", "gender": "Женский", "price": 15, "quantity": 1, "color": "Розовый"},
+
+{"brand": "iPhone", "model": "12 Pro Max", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 12, "quantity": 3, "color": "Зеленый"},
+{"brand": "iPhone", "model": "12 Pro Max", "case_type": "Силиконовая панель", "gender": "Женский", "price": 10, "quantity": 2, "color": "Сиреневый"},
+{"brand": "iPhone", "model": "12 Pro Max", "case_type": "Чехол книжка", "gender": "Мужской", "price": 15, "quantity": 3, "color": "Черный"},
+{"brand": "iPhone", "model": "12 Pro Max", "case_type": "Чехол книжка", "gender": "Мужской", "price": 15, "quantity": 1, "color": "Коричневый"},
+{"brand": "iPhone", "model": "12 Pro Max", "case_type": "Чехол книжка", "gender": "Женский", "price": 15, "quantity": 2, "color": "Золотистый"},
+{"brand": "iPhone", "model": "12 Pro Max", "case_type": "Чехол книжка", "gender": "Женский", "price": 15, "quantity": 2, "color": "Розовый"},
+
+{"brand": "iPhone", "model": "13", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 14, "quantity": 3, "color": "Синий"},
+{"brand": "iPhone", "model": "13", "case_type": "Силиконовая панель", "gender": "Женский", "price": 13, "quantity": 2, "color": "Розовый"},
+{"brand": "iPhone", "model": "13", "case_type": "Чехол книжка", "gender": "Мужской", "price": 16, "quantity": 1, "color": "Черный"},
+{"brand": "iPhone", "model": "13", "case_type": "Чехол книжка", "gender": "Женский", "price": 17, "quantity": 4, "color": "Бежевый"},
+
+{"brand": "iPhone", "model": "13 Mini", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 15, "quantity": 2, "color": "Темно-зеленый"},
+{"brand": "iPhone", "model": "13 Mini", "case_type": "Силиконовая панель", "gender": "Женский", "price": 12, "quantity": 3, "color": "Лавандовый"},
+{"brand": "iPhone", "model": "13 Mini", "case_type": "Чехол книжка", "gender": "Мужской", "price": 18, "quantity": 2, "color": "Коричневый"},
+{"brand": "iPhone", "model": "13 Mini", "case_type": "Чехол книжка", "gender": "Женский", "price": 16, "quantity": 1, "color": "Белый"},
+
+{"brand": "iPhone", "model": "13 Pro", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 17, "quantity": 3, "color": "Красный"},
+{"brand": "iPhone", "model": "13 Pro", "case_type": "Силиконовая панель", "gender": "Женский", "price": 14, "quantity": 2, "color": "Желтый"},
+{"brand": "iPhone", "model": "13 Pro", "case_type": "Чехол книжка", "gender": "Мужской", "price": 19, "quantity": 4, "color": "Серый"},
+{"brand": "iPhone", "model": "13 Pro", "case_type": "Чехол книжка", "gender": "Женский", "price": 15, "quantity": 2, "color": "Голубой"},
+
+{"brand": "iPhone", "model": "13 Pro Max", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 18, "quantity": 2, "color": "Темно-синий"},
+{"brand": "iPhone", "model": "13 Pro Max", "case_type": "Силиконовая панель", "gender": "Женский", "price": 16, "quantity": 1, "color": "Золотистый"},
+{"brand": "iPhone", "model": "13 Pro Max", "case_type": "Чехол книжка", "gender": "Мужской", "price": 20, "quantity": 3, "color": "Фиолетовый"},
+{"brand": "iPhone", "model": "13 Pro Max", "case_type": "Чехол книжка", "gender": "Женский", "price": 18, "quantity": 2, "color": "Светло-розовый"},
+
+{"brand": "iPhone", "model": "14", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 16, "quantity": 3, "color": "Темно-синий"},
+{"brand": "iPhone", "model": "14", "case_type": "Силиконовая панель", "gender": "Женский", "price": 14, "quantity": 2, "color": "Розовый"},
+{"brand": "iPhone", "model": "14", "case_type": "Чехол книжка", "gender": "Мужской", "price": 19, "quantity": 1, "color": "Черный"},
+{"brand": "iPhone", "model": "14", "case_type": "Чехол книжка", "gender": "Женский", "price": 17, "quantity": 4, "color": "Бежевый"},
+
+{"brand": "iPhone", "model": "14 Plus", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 17, "quantity": 2, "color": "Темно-зеленый"},
+{"brand": "iPhone", "model": "14 Plus", "case_type": "Силиконовая панель", "gender": "Женский", "price": 15, "quantity": 3, "color": "Лавандовый"},
+{"brand": "iPhone", "model": "14 Plus", "case_type": "Чехол книжка", "gender": "Мужской", "price": 20, "quantity": 2, "color": "Коричневый"},
+{"brand": "iPhone", "model": "14 Plus", "case_type": "Чехол книжка", "gender": "Женский", "price": 18, "quantity": 1, "color": "Белый"},
+
+{"brand": "iPhone", "model": "14 Pro", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 18, "quantity": 3, "color": "Красный"},
+{"brand": "iPhone", "model": "14 Pro", "case_type": "Силиконовая панель", "gender": "Женский", "price": 16, "quantity": 2, "color": "Желтый"},
+{"brand": "iPhone", "model": "14 Pro", "case_type": "Чехол книжка", "gender": "Мужской", "price": 21, "quantity": 4, "color": "Серый"},
+{"brand": "iPhone", "model": "14 Pro", "case_type": "Чехол книжка", "gender": "Женский", "price": 19, "quantity": 2, "color": "Голубой"},
+
+{"brand": "iPhone", "model": "14 Pro Max", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 20, "quantity": 2, "color": "Темно-синий"},
+{"brand": "iPhone", "model": "14 Pro Max", "case_type": "Силиконовая панель", "gender": "Женский", "price": 18, "quantity": 1, "color": "Золотистый"},
+{"brand": "iPhone", "model": "14 Pro Max", "case_type": "Чехол книжка", "gender": "Мужской", "price": 22, "quantity": 3, "color": "Фиолетовый"},
+{"brand": "iPhone", "model": "14 Pro Max", "case_type": "Чехол книжка", "gender": "Женский", "price": 20, "quantity": 2, "color": "Светло-розовый"},
+
+{"brand": "iPhone", "model": "15", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 17, "quantity": 3, "color": "Темно-зеленый"},
+{"brand": "iPhone", "model": "15", "case_type": "Силиконовая панель", "gender": "Женский", "price": 15, "quantity": 2, "color": "Лавандовый"},
+{"brand": "iPhone", "model": "15", "case_type": "Чехол книжка", "gender": "Мужской", "price": 21, "quantity": 1, "color": "Черный"},
+{"brand": "iPhone", "model": "15", "case_type": "Чехол книжка", "gender": "Женский", "price": 19, "quantity": 4, "color": "Бежевый"},
+
+{"brand": "iPhone", "model": "15 Plus", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 18, "quantity": 2, "color": "Темно-синий"},
+{"brand": "iPhone", "model": "15 Plus", "case_type": "Силиконовая панель", "gender": "Женский", "price": 16, "quantity": 3, "color": "Розовый"},
+{"brand": "iPhone", "model": "15 Plus", "case_type": "Чехол книжка", "gender": "Мужской", "price": 22, "quantity": 2, "color": "Коричневый"},
+{"brand": "iPhone", "model": "15 Plus", "case_type": "Чехол книжка", "gender": "Женский", "price": 20, "quantity": 1, "color": "Белый"},
+
+{"brand": "iPhone", "model": "15 Pro", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 19, "quantity": 3, "color": "Красный"},
+{"brand": "iPhone", "model": "15 Pro", "case_type": "Силиконовая панель", "gender": "Женский", "price": 17, "quantity": 2, "color": "Желтый"},
+{"brand": "iPhone", "model": "15 Pro", "case_type": "Чехол книжка", "gender": "Мужской", "price": 23, "quantity": 4, "color": "Серый"},
+{"brand": "iPhone", "model": "15 Pro", "case_type": "Чехол книжка", "gender": "Женский", "price": 21, "quantity": 2, "color": "Голубой"},
+
+{"brand": "iPhone", "model": "15 Pro Max", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 21, "quantity": 2, "color": "Темно-серый"},
+{"brand": "iPhone", "model": "15 Pro Max", "case_type": "Силиконовая панель", "gender": "Женский", "price": 19, "quantity": 1, "color": "Золотистый"},
+{"brand": "iPhone", "model": "15 Pro Max", "case_type": "Чехол книжка", "gender": "Мужской", "price": 25, "quantity": 3, "color": "Фиолетовый"},
+{"brand": "iPhone", "model": "15 Pro Max", "case_type": "Чехол книжка", "gender": "Женский", "price": 23, "quantity": 2, "color": "Светло-розовый"},
+
+{"brand": "Samsung", "model": "A01", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 12, "quantity": 3, "color": "Черный"},
+{"brand": "Samsung", "model": "A01", "case_type": "Силиконовая панель", "gender": "Женский", "price": 11, "quantity": 2, "color": "Розовый"},
+{"brand": "Samsung", "model": "A01", "case_type": "Чехол книжка", "gender": "Мужской", "price": 14, "quantity": 1, "color": "Коричневый"},
+{"brand": "Samsung", "model": "A01", "case_type": "Чехол книжка", "gender": "Женский", "price": 15, "quantity": 4, "color": "Красный"},
+
+{"brand": "Samsung", "model": "A02", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 13, "quantity": 2, "color": "Темно-синий"},
+{"brand": "Samsung", "model": "A02", "case_type": "Силиконовая панель", "gender": "Женский", "price": 12, "quantity": 3, "color": "Желтый"},
+{"brand": "Samsung", "model": "A02", "case_type": "Чехол книжка", "gender": "Мужской", "price": 16, "quantity": 2, "color": "Серый"},
+{"brand": "Samsung", "model": "A02", "case_type": "Чехол книжка", "gender": "Женский", "price": 14, "quantity": 1, "color": "Голубой"},
+
+{"brand": "Samsung", "model": "A02s", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 14, "quantity": 3, "color": "Красный"},
+{"brand": "Samsung", "model": "A02s", "case_type": "Силиконовая панель", "gender": "Женский", "price": 13, "quantity": 2, "color": "Лавандовый"},
+{"brand": "Samsung", "model": "A02s", "case_type": "Чехол книжка", "gender": "Мужской", "price": 17, "quantity": 4, "color": "Черный"},
+{"brand": "Samsung", "model": "A02s", "case_type": "Чехол книжка", "gender": "Женский", "price": 15, "quantity": 2, "color": "Золотистый"},
+
+{"brand": "Samsung", "model": "A03", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 15, "quantity": 2, "color": "Темно-зеленый"},
+{"brand": "Samsung", "model": "A03", "case_type": "Силиконовая панель", "gender": "Женский", "price": 14, "quantity": 1, "color": "Фиолетовый"},
+{"brand": "Samsung", "model": "A03", "case_type": "Чехол книжка", "gender": "Мужской", "price": 18, "quantity": 3, "color": "Синий"},
+{"brand": "Samsung", "model": "A03", "case_type": "Чехол книжка", "gender": "Женский", "price": 16, "quantity": 2, "color": "Бежевый"},
+
+{"brand": "Samsung", "model": "A03s", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 14, "quantity": 3, "color": "Графитовый"},
+{"brand": "Samsung", "model": "A03s", "case_type": "Силиконовая панель", "gender": "Женский", "price": 13, "quantity": 2, "color": "Персиковый"},
+{"brand": "Samsung", "model": "A03s", "case_type": "Чехол книжка", "gender": "Мужской", "price": 17, "quantity": 4, "color": "Темно-серый"},
+{"brand": "Samsung", "model": "A03s", "case_type": "Чехол книжка", "gender": "Женский", "price": 15, "quantity": 2, "color": "Лиловый"},
+
+{"brand": "Samsung", "model": "A05", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 13, "quantity": 3, "color": "Черный"},
+{"brand": "Samsung", "model": "A05", "case_type": "Силиконовая панель", "gender": "Женский", "price": 12, "quantity": 2, "color": "Розовый"},
+{"brand": "Samsung", "model": "A05", "case_type": "Чехол книжка", "gender": "Мужской", "price": 15, "quantity": 1, "color": "Коричневый"},
+{"brand": "Samsung", "model": "A05", "case_type": "Чехол книжка", "gender": "Женский", "price": 14, "quantity": 4, "color": "Красный"},
+
+{"brand": "Samsung", "model": "A05s", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 14, "quantity": 2, "color": "Темно-синий"},
+{"brand": "Samsung", "model": "A05s", "case_type": "Силиконовая панель", "gender": "Женский", "price": 13, "quantity": 3, "color": "Желтый"},
+{"brand": "Samsung", "model": "A05s", "case_type": "Чехол книжка", "gender": "Мужской", "price": 16, "quantity": 2, "color": "Серый"},
+{"brand": "Samsung", "model": "A05s", "case_type": "Чехол книжка", "gender": "Женский", "price": 15, "quantity": 1, "color": "Голубой"},
+
+{"brand": "Samsung", "model": "S6 edge+", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 16, "quantity": 3, "color": "Красный"},
+{"brand": "Samsung", "model": "S6 edge+", "case_type": "Силиконовая панель", "gender": "Женский", "price": 15, "quantity": 2, "color": "Лавандовый"},
+{"brand": "Samsung", "model": "S6 edge+", "case_type": "Чехол книжка", "gender": "Мужской", "price": 18, "quantity": 4, "color": "Черный"},
+{"brand": "Samsung", "model": "S6 edge+", "case_type": "Чехол книжка", "gender": "Женский", "price": 17, "quantity": 2, "color": "Золотистый"},
+
+{"brand": "Samsung", "model": "S6 edge", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 17, "quantity": 2, "color": "Темно-зеленый"},
+{"brand": "Samsung", "model": "S6 edge", "case_type": "Силиконовая панель", "gender": "Женский", "price": 16, "quantity": 1, "color": "Фиолетовый"},
+{"brand": "Samsung", "model": "S6 edge", "case_type": "Чехол книжка", "gender": "Мужской", "price": 19, "quantity": 3, "color": "Синий"},
+{"brand": "Samsung", "model": "S6 edge", "case_type": "Чехол книжка", "gender": "Женский", "price": 18, "quantity": 2, "color": "Бежевый"},
+
+{"brand": "Samsung", "model": "S6", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 18, "quantity": 2, "color": "Графитовый"},
+{"brand": "Samsung", "model": "S6", "case_type": "Силиконовая панель", "gender": "Женский", "price": 17, "quantity": 1, "color": "Персиковый"},
+{"brand": "Samsung", "model": "S6", "case_type": "Чехол книжка", "gender": "Мужской", "price": 20, "quantity": 3, "color": "Темно-серый"},
+{"brand": "Samsung", "model": "S6", "case_type": "Чехол книжка", "gender": "Женский", "price": 19, "quantity": 2, "color": "Лиловый"},
+
+{"brand": "Samsung", "model": "S7 edge", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 14, "quantity": 3, "color": "Черный"},
+{"brand": "Samsung", "model": "S7 edge", "case_type": "Силиконовая панель", "gender": "Женский", "price": 13, "quantity": 2, "color": "Розовый"},
+{"brand": "Samsung", "model": "S7 edge", "case_type": "Чехол книжка", "gender": "Мужской", "price": 16, "quantity": 1, "color": "Коричневый"},
+{"brand": "Samsung", "model": "S7 edge", "case_type": "Чехол книжка", "gender": "Женский", "price": 15, "quantity": 4, "color": "Красный"},
+
+{"brand": "Samsung", "model": "S7", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 15, "quantity": 2, "color": "Темно-синий"},
+{"brand": "Samsung", "model": "S7", "case_type": "Силиконовая панель", "gender": "Женский", "price": 14, "quantity": 3, "color": "Желтый"},
+{"brand": "Samsung", "model": "S7", "case_type": "Чехол книжка", "gender": "Мужской", "price": 17, "quantity": 2, "color": "Серый"},
+{"brand": "Samsung", "model": "S7", "case_type": "Чехол книжка", "gender": "Женский", "price": 16, "quantity": 1, "color": "Голубой"},
+
+{"brand": "Samsung", "model": "S8", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 15, "quantity": 3, "color": "Красный"},
+{"brand": "Samsung", "model": "S8", "case_type": "Силиконовая панель", "gender": "Женский", "price": 14, "quantity": 2, "color": "Лавандовый"},
+{"brand": "Samsung", "model": "S8", "case_type": "Чехол книжка", "gender": "Мужской", "price": 17, "quantity": 4, "color": "Черный"},
+{"brand": "Samsung", "model": "S8", "case_type": "Чехол книжка", "gender": "Женский", "price": 16, "quantity": 2, "color": "Золотистый"},
+
+{"brand": "Samsung", "model": "S8 Plus", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 16, "quantity": 2, "color": "Темно-зеленый"},
+{"brand": "Samsung", "model": "S8 Plus", "case_type": "Силиконовая панель", "gender": "Женский", "price": 15, "quantity": 1, "color": "Фиолетовый"},
+{"brand": "Samsung", "model": "S8 Plus", "case_type": "Чехол книжка", "gender": "Мужской", "price": 18, "quantity": 3, "color": "Синий"},
+{"brand": "Samsung", "model": "S8 Plus", "case_type": "Чехол книжка", "gender": "Женский", "price": 17, "quantity": 2, "color": "Бежевый"},
+
+{"brand": "Samsung", "model": "S9", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 16, "quantity": 3, "color": "Черный"},
+{"brand": "Samsung", "model": "S9", "case_type": "Силиконовая панель", "gender": "Женский", "price": 15, "quantity": 2, "color": "Розовый"},
+{"brand": "Samsung", "model": "S9", "case_type": "Чехол книжка", "gender": "Мужской", "price": 18, "quantity": 1, "color": "Коричневый"},
+{"brand": "Samsung", "model": "S9", "case_type": "Чехол книжка", "gender": "Женский", "price": 17, "quantity": 4, "color": "Красный"},
+
+{"brand": "Samsung", "model": "S9 Plus", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 17, "quantity": 2, "color": "Темно-синий"},
+{"brand": "Samsung", "model": "S9 Plus", "case_type": "Силиконовая панель", "gender": "Женский", "price": 16, "quantity": 3, "color": "Желтый"},
+{"brand": "Samsung", "model": "S9 Plus", "case_type": "Чехол книжка", "gender": "Мужской", "price": 19, "quantity": 2, "color": "Серый"},
+{"brand": "Samsung", "model": "S9 Plus", "case_type": "Чехол книжка", "gender": "Женский", "price": 18, "quantity": 1, "color": "Голубой"},
+
+{"brand": "Samsung", "model": "S10", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 17, "quantity": 3, "color": "Черный"},
+{"brand": "Samsung", "model": "S10", "case_type": "Силиконовая панель", "gender": "Женский", "price": 16, "quantity": 2, "color": "Розовый"},
+{"brand": "Samsung", "model": "S10", "case_type": "Чехол книжка", "gender": "Мужской", "price": 19, "quantity": 1, "color": "Коричневый"},
+{"brand": "Samsung", "model": "S10", "case_type": "Чехол книжка", "gender": "Женский", "price": 18, "quantity": 4, "color": "Красный"},
+
+{"brand": "Samsung", "model": "S10e", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 18, "quantity": 2, "color": "Темно-синий"},
+{"brand": "Samsung", "model": "S10e", "case_type": "Силиконовая панель", "gender": "Женский", "price": 17, "quantity": 3, "color": "Желтый"},
+{"brand": "Samsung", "model": "S10e", "case_type": "Чехол книжка", "gender": "Мужской", "price": 20, "quantity": 2, "color": "Серый"},
+{"brand": "Samsung", "model": "S10e", "case_type": "Чехол книжка", "gender": "Женский", "price": 19, "quantity": 1, "color": "Голубой"},
+
+{"brand": "Samsung", "model": "S10 Plus", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 19, "quantity": 3, "color": "Красный"},
+{"brand": "Samsung", "model": "S10 Plus", "case_type": "Силиконовая панель", "gender": "Женский", "price": 18, "quantity": 2, "color": "Лавандовый"},
+{"brand": "Samsung", "model": "S10 Plus", "case_type": "Чехол книжка", "gender": "Мужской", "price": 21, "quantity": 4, "color": "Черный"},
+{"brand": "Samsung", "model": "S10 Plus", "case_type": "Чехол книжка", "gender": "Женский", "price": 20, "quantity": 2, "color": "Золотистый"},
+
+{"brand": "Samsung", "model": "S10 Lite", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 20, "quantity": 3, "color": "Красный"},
+{"brand": "Samsung", "model": "S10 Lite", "case_type": "Силиконовая панель", "gender": "Женский", "price": 19, "quantity": 2, "color": "Лавандовый"},
+{"brand": "Samsung", "model": "S10 Lite", "case_type": "Чехол книжка", "gender": "Мужской", "price": 22, "quantity": 4, "color": "Черный"},
+{"brand": "Samsung", "model": "S10 Lite", "case_type": "Чехол книжка", "gender": "Женский", "price": 21, "quantity": 2, "color": "Золотистый"},
+
+{"brand": "Samsung", "model": "S20", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 20, "quantity": 3, "color": "Черный"},
+{"brand": "Samsung", "model": "S20", "case_type": "Силиконовая панель", "gender": "Женский", "price": 19, "quantity": 2, "color": "Розовый"},
+{"brand": "Samsung", "model": "S20", "case_type": "Чехол книжка", "gender": "Мужской", "price": 22, "quantity": 1, "color": "Коричневый"},
+{"brand": "Samsung", "model": "S20", "case_type": "Чехол книжка", "gender": "Женский", "price": 21, "quantity": 4, "color": "Красный"},
+
+{"brand": "Samsung", "model": "S20 FE", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 21, "quantity": 2, "color": "Темно-синий"},
+{"brand": "Samsung", "model": "S20 FE", "case_type": "Силиконовая панель", "gender": "Женский", "price": 20, "quantity": 3, "color": "Желтый"},
+{"brand": "Samsung", "model": "S20 FE", "case_type": "Чехол книжка", "gender": "Мужской", "price": 23, "quantity": 2, "color": "Серый"},
+{"brand": "Samsung", "model": "S20 FE", "case_type": "Чехол книжка", "gender": "Женский", "price": 22, "quantity": 1, "color": "Голубой"},
+
+{"brand": "Samsung", "model": "S20+", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 22, "quantity": 3, "color": "Красный"},
+{"brand": "Samsung", "model": "S20+", "case_type": "Силиконовая панель", "gender": "Женский", "price": 21, "quantity": 2, "color": "Лавандовый"},
+{"brand": "Samsung", "model": "S20+", "case_type": "Чехол книжка", "gender": "Мужской", "price": 24, "quantity": 4, "color": "Черный"},
+{"brand": "Samsung", "model": "S20+", "case_type": "Чехол книжка", "gender": "Женский", "price": 23, "quantity": 2, "color": "Золотистый"},
+
+{"brand": "Samsung", "model": "S21", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 18, "quantity": 3, "color": "Черный"},
+{"brand": "Samsung", "model": "S21", "case_type": "Силиконовая панель", "gender": "Женский", "price": 17, "quantity": 2, "color": "Розовый"},
+{"brand": "Samsung", "model": "S21", "case_type": "Чехол книжка", "gender": "Мужской", "price": 21, "quantity": 1, "color": "Коричневый"},
+{"brand": "Samsung", "model": "S21", "case_type": "Чехол книжка", "gender": "Женский", "price": 19, "quantity": 4, "color": "Красный"},
+
+{"brand": "Samsung", "model": "S21 FE", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 23, "quantity": 3, "color": "Черный"},
+{"brand": "Samsung", "model": "S21 FE", "case_type": "Силиконовая панель", "gender": "Женский", "price": 22, "quantity": 2, "color": "Розовый"},
+{"brand": "Samsung", "model": "S21 FE", "case_type": "Чехол книжка", "gender": "Мужской", "price": 25, "quantity": 1, "color": "Коричневый"},
+{"brand": "Samsung", "model": "S21 FE", "case_type": "Чехол книжка", "gender": "Женский", "price": 24, "quantity": 4, "color": "Красный"},
+
+{"brand": "Samsung", "model": "S21 Plus", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 19, "quantity": 2, "color": "Серый"},
+{"brand": "Samsung", "model": "S21 Plus", "case_type": "Силиконовая панель", "gender": "Женский", "price": 18, "quantity": 3, "color": "Желтый"},
+{"brand": "Samsung", "model": "S21 Plus", "case_type": "Чехол книжка", "gender": "Мужской", "price": 22, "quantity": 2, "color": "Голубой"},
+{"brand": "Samsung", "model": "S21 Plus", "case_type": "Чехол книжка", "gender": "Женский", "price": 20, "quantity": 1, "color": "Бежевый"},
+
+{"brand": "Samsung", "model": "S21 Ultra", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 20, "quantity": 3, "color": "Фиолетовый"},
+{"brand": "Samsung", "model": "S21 Ultra", "case_type": "Силиконовая панель", "gender": "Женский", "price": 19, "quantity": 2, "color": "Золотистый"},
+{"brand": "Samsung", "model": "S21 Ultra", "case_type": "Чехол книжка", "gender": "Мужской", "price": 24, "quantity": 4, "color": "Синий"},
+{"brand": "Samsung", "model": "S21 Ultra", "case_type": "Чехол книжка", "gender": "Женский", "price": 22, "quantity": 2, "color": "Лавандовый"},
+
+{"brand": "Samsung", "model": "S22", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 21, "quantity": 3, "color": "Темно-зеленый"},
+{"brand": "Samsung", "model": "S22", "case_type": "Силиконовая панель", "gender": "Женский", "price": 19, "quantity": 2, "color": "Розовый"},
+{"brand": "Samsung", "model": "S22", "case_type": "Чехол книжка", "gender": "Мужской", "price": 24, "quantity": 1, "color": "Черный"},
+{"brand": "Samsung", "model": "S22", "case_type": "Чехол книжка", "gender": "Женский", "price": 22, "quantity": 4, "color": "Бежевый"},
+
+{"brand": "Samsung", "model": "S22 Plus", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 22, "quantity": 2, "color": "Синий"},
+{"brand": "Samsung", "model": "S22 Plus", "case_type": "Силиконовая панель", "gender": "Женский", "price": 20, "quantity": 3, "color": "Желтый"},
+{"brand": "Samsung", "model": "S22 Plus", "case_type": "Чехол книжка", "gender": "Мужской", "price": 26, "quantity": 2, "color": "Коричневый"},
+{"brand": "Samsung", "model": "S22 Plus", "case_type": "Чехол книжка", "gender": "Женский", "price": 24, "quantity": 1, "color": "Голубой"},
+
+{"brand": "Samsung", "model": "S22 Ultra", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 24, "quantity": 3, "color": "Красный"},
+{"brand": "Samsung", "model": "S22 Ultra", "case_type": "Силиконовая панель", "gender": "Женский", "price": 22, "quantity": 2, "color": "Золотистый"},
+{"brand": "Samsung", "model": "S22 Ultra", "case_type": "Чехол книжка", "gender": "Мужской", "price": 28, "quantity": 4, "color": "Темно-серый"},
+{"brand": "Samsung", "model": "S22 Ultra", "case_type": "Чехол книжка", "gender": "Женский", "price": 26, "quantity": 2, "color": "Лавандовый"},
+
+{"brand": "Samsung", "model": "S20 FE", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 21, "quantity": 3, "color": "Черный"},
+{"brand": "Samsung", "model": "S20 FE", "case_type": "Силиконовая панель", "gender": "Женский", "price": 20, "quantity": 2, "color": "Розовый"},
+{"brand": "Samsung", "model": "S20 FE", "case_type": "Чехол книжка", "gender": "Мужской", "price": 23, "quantity": 1, "color": "Коричневый"},
+{"brand": "Samsung", "model": "S20 FE", "case_type": "Чехол книжка", "gender": "Женский", "price": 22, "quantity": 4, "color": "Красный"},
+
+{"brand": "Samsung", "model": "S23", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 25, "quantity": 3, "color": "Темно-зеленый"},
+{"brand": "Samsung", "model": "S23", "case_type": "Силиконовая панель", "gender": "Женский", "price": 23, "quantity": 2, "color": "Розовый"},
+{"brand": "Samsung", "model": "S23", "case_type": "Чехол книжка", "gender": "Мужской", "price": 28, "quantity": 1, "color": "Черный"},
+{"brand": "Samsung", "model": "S23", "case_type": "Чехол книжка", "gender": "Женский", "price": 26, "quantity": 4, "color": "Бежевый"},
+
+{"brand": "Samsung", "model": "S23 Plus", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 26, "quantity": 2, "color": "Синий"},
+{"brand": "Samsung", "model": "S23 Plus", "case_type": "Силиконовая панель", "gender": "Женский", "price": 24, "quantity": 3, "color": "Желтый"},
+{"brand": "Samsung", "model": "S23 Plus", "case_type": "Чехол книжка", "gender": "Мужской", "price": 30, "quantity": 2, "color": "Коричневый"},
+{"brand": "Samsung", "model": "S23 Plus", "case_type": "Чехол книжка", "gender": "Женский", "price": 28, "quantity": 1, "color": "Голубой"},
+
+{"brand": "Samsung", "model": "S23 Ultra", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 28, "quantity": 3, "color": "Красный"},
+{"brand": "Samsung", "model": "S23 Ultra", "case_type": "Силиконовая панель", "gender": "Женский", "price": 26, "quantity": 2, "color": "Золотистый"},
+{"brand": "Samsung", "model": "S23 Ultra", "case_type": "Чехол книжка", "gender": "Мужской", "price": 32, "quantity": 4, "color": "Темно-серый"},
+{"brand": "Samsung", "model": "S23 Ultra", "case_type": "Чехол книжка", "gender": "Женский", "price": 30, "quantity": 2, "color": "Лавандовый"},
+
+{"brand": "Samsung", "model": "S23 FE", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 26, "quantity": 3, "color": "Черный"},
+{"brand": "Samsung", "model": "S23 FE", "case_type": "Силиконовая панель", "gender": "Женский", "price": 25, "quantity": 2, "color": "Розовый"},
+{"brand": "Samsung", "model": "S23 FE", "case_type": "Чехол книжка", "gender": "Мужской", "price": 28, "quantity": 1, "color": "Коричневый"},
+{"brand": "Samsung", "model": "S23 FE", "case_type": "Чехол книжка", "gender": "Женский", "price": 27, "quantity": 4, "color": "Красный"},
+
+{"brand": "Samsung", "model": "S24", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 30, "quantity": 3, "color": "Темно-синий"},
+{"brand": "Samsung", "model": "S24", "case_type": "Силиконовая панель", "gender": "Женский", "price": 28, "quantity": 2, "color": "Розовый"},
+{"brand": "Samsung", "model": "S24", "case_type": "Чехол книжка", "gender": "Мужской", "price": 33, "quantity": 1, "color": "Черный"},
+{"brand": "Samsung", "model": "S24", "case_type": "Чехол книжка", "gender": "Женский", "price": 31, "quantity": 4, "color": "Бежевый"},
+
+{"brand": "Samsung", "model": "S24 Plus", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 32, "quantity": 2, "color": "Фиолетовый"},
+{"brand": "Samsung", "model": "S24 Plus", "case_type": "Силиконовая панель", "gender": "Женский", "price": 30, "quantity": 3, "color": "Желтый"},
+{"brand": "Samsung", "model": "S24 Plus", "case_type": "Чехол книжка", "gender": "Мужской", "price": 35, "quantity": 2, "color": "Коричневый"},
+{"brand": "Samsung", "model": "S24 Plus", "case_type": "Чехол книжка", "gender": "Женский", "price": 33, "quantity": 1, "color": "Голубой"},
+
+{"brand": "Samsung", "model": "S24 Ultra", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 36, "quantity": 3, "color": "Красный"},
+{"brand": "Samsung", "model": "S24 Ultra", "case_type": "Силиконовая панель", "gender": "Женский", "price": 34, "quantity": 2, "color": "Золотистый"},
+{"brand": "Samsung", "model": "S24 Ultra", "case_type": "Чехол книжка", "gender": "Мужской", "price": 38, "quantity": 4, "color": "Темно-серый"},
+{"brand": "Samsung", "model": "S24 Ultra", "case_type": "Чехол книжка", "gender": "Женский", "price": 36, "quantity": 2, "color": "Лавандовый"},
+
+{"brand": "Samsung", "model": "S24 FE", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 28, "quantity": 3, "color": "Черный"},
+{"brand": "Samsung", "model": "S24 FE", "case_type": "Силиконовая панель", "gender": "Женский", "price": 27, "quantity": 2, "color": "Розовый"},
+{"brand": "Samsung", "model": "S24 FE", "case_type": "Чехол книжка", "gender": "Мужской", "price": 30, "quantity": 1, "color": "Коричневый"},
+{"brand": "Samsung", "model": "S24 FE", "case_type": "Чехол книжка", "gender": "Женский", "price": 29, "quantity": 4, "color": "Красный"},
+
+{"brand": "Samsung", "model": "S25", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 40, "quantity": 3, "color": "Темно-синий"},
+{"brand": "Samsung", "model": "S25", "case_type": "Силиконовая панель", "gender": "Женский", "price": 38, "quantity": 2, "color": "Розовый"},
+{"brand": "Samsung", "model": "S25", "case_type": "Чехол книжка", "gender": "Мужской", "price": 43, "quantity": 1, "color": "Черный"},
+{"brand": "Samsung", "model": "S25", "case_type": "Чехол книжка", "gender": "Женский", "price": 41, "quantity": 4, "color": "Бежевый"},
+
+{"brand": "Samsung", "model": "S25 Plus", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 42, "quantity": 2, "color": "Фиолетовый"},
+{"brand": "Samsung", "model": "S25 Plus", "case_type": "Силиконовая панель", "gender": "Женский", "price": 40, "quantity": 3, "color": "Желтый"},
+{"brand": "Samsung", "model": "S25 Plus", "case_type": "Чехол книжка", "gender": "Мужской", "price": 45, "quantity": 2, "color": "Коричневый"},
+{"brand": "Samsung", "model": "S25 Plus", "case_type": "Чехол книжка", "gender": "Женский", "price": 43, "quantity": 1, "color": "Голубой"},
+
+{"brand": "Samsung", "model": "S25 Ultra", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 46, "quantity": 3, "color": "Красный"},
+{"brand": "Samsung", "model": "S25 Ultra", "case_type": "Силиконовая панель", "gender": "Женский", "price": 44, "quantity": 2, "color": "Золотистый"},
+{"brand": "Samsung", "model": "S25 Ultra", "case_type": "Чехол книжка", "gender": "Мужской", "price": 48, "quantity": 4, "color": "Темно-серый"},
+{"brand": "Samsung", "model": "S25 Ultra", "case_type": "Чехол книжка", "gender": "Женский", "price": 46, "quantity": 2, "color": "Лавандовый"},
+
+{"brand": "Samsung", "model": "A10", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 14, "quantity": 3, "color": "Черный"},
+{"brand": "Samsung", "model": "A10", "case_type": "Силиконовая панель", "gender": "Женский", "price": 13, "quantity": 2, "color": "Розовый"},
+{"brand": "Samsung", "model": "A10", "case_type": "Чехол книжка", "gender": "Мужской", "price": 16, "quantity": 1, "color": "Коричневый"},
+{"brand": "Samsung", "model": "A10", "case_type": "Чехол книжка", "gender": "Женский", "price": 15, "quantity": 4, "color": "Красный"},
+
+{"brand": "Samsung", "model": "A20", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 15, "quantity": 2, "color": "Темно-синий"},
+{"brand": "Samsung", "model": "A20", "case_type": "Силиконовая панель", "gender": "Женский", "price": 14, "quantity": 3, "color": "Желтый"},
+{"brand": "Samsung", "model": "A20", "case_type": "Чехол книжка", "gender": "Мужской", "price": 17, "quantity": 2, "color": "Серый"},
+{"brand": "Samsung", "model": "A20", "case_type": "Чехол книжка", "gender": "Женский", "price": 16, "quantity": 1, "color": "Голубой"},
+
+{"brand": "Samsung", "model": "A20e", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 16, "quantity": 3, "color": "Красный"},
+{"brand": "Samsung", "model": "A20e", "case_type": "Силиконовая панель", "gender": "Женский", "price": 15, "quantity": 2, "color": "Лавандовый"},
+{"brand": "Samsung", "model": "A20e", "case_type": "Чехол книжка", "gender": "Мужской", "price": 18, "quantity": 4, "color": "Черный"},
+{"brand": "Samsung", "model": "A20e", "case_type": "Чехол книжка", "gender": "Женский", "price": 17, "quantity": 2, "color": "Золотистый"},
+
+{"brand": "Samsung", "model": "A30", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 15, "quantity": 3, "color": "Черный"},
+{"brand": "Samsung", "model": "A30", "case_type": "Силиконовая панель", "gender": "Женский", "price": 14, "quantity": 2, "color": "Розовый"},
+{"brand": "Samsung", "model": "A30", "case_type": "Чехол книжка", "gender": "Мужской", "price": 17, "quantity": 1, "color": "Коричневый"},
+{"brand": "Samsung", "model": "A30", "case_type": "Чехол книжка", "gender": "Женский", "price": 16, "quantity": 4, "color": "Красный"},
+
+{"brand": "Samsung", "model": "A40", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 16, "quantity": 2, "color": "Темно-синий"},
+{"brand": "Samsung", "model": "A40", "case_type": "Силиконовая панель", "gender": "Женский", "price": 15, "quantity": 3, "color": "Желтый"},
+{"brand": "Samsung", "model": "A40", "case_type": "Чехол книжка", "gender": "Мужской", "price": 18, "quantity": 2, "color": "Серый"},
+{"brand": "Samsung", "model": "A40", "case_type": "Чехол книжка", "gender": "Женский", "price": 17, "quantity": 1, "color": "Голубой"},
+
+{"brand": "Samsung", "model": "A50", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 17, "quantity": 3, "color": "Красный"},
+{"brand": "Samsung", "model": "A50", "case_type": "Силиконовая панель", "gender": "Женский", "price": 16, "quantity": 2, "color": "Лавандовый"},
+{"brand": "Samsung", "model": "A50", "case_type": "Чехол книжка", "gender": "Мужской", "price": 19, "quantity": 4, "color": "Черный"},
+{"brand": "Samsung", "model": "A50", "case_type": "Чехол книжка", "gender": "Женский", "price": 18, "quantity": 2, "color": "Золотистый"},
+
+{"brand": "Samsung", "model": "A60", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 16, "quantity": 3, "color": "Черный"},
+{"brand": "Samsung", "model": "A60", "case_type": "Силиконовая панель", "gender": "Женский", "price": 15, "quantity": 2, "color": "Розовый"},
+{"brand": "Samsung", "model": "A60", "case_type": "Чехол книжка", "gender": "Мужской", "price": 18, "quantity": 1, "color": "Коричневый"},
+{"brand": "Samsung", "model": "A60", "case_type": "Чехол книжка", "gender": "Женский", "price": 17, "quantity": 4, "color": "Красный"},
+
+{"brand": "Samsung", "model": "A70", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 17, "quantity": 2, "color": "Темно-синий"},
+{"brand": "Samsung", "model": "A70", "case_type": "Силиконовая панель", "gender": "Женский", "price": 16, "quantity": 3, "color": "Желтый"},
+{"brand": "Samsung", "model": "A70", "case_type": "Чехол книжка", "gender": "Мужской", "price": 19, "quantity": 2, "color": "Серый"},
+{"brand": "Samsung", "model": "A70", "case_type": "Чехол книжка", "gender": "Женский", "price": 18, "quantity": 1, "color": "Голубой"},
+
+{"brand": "Samsung", "model": "A80", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 18, "quantity": 3, "color": "Черный"},
+{"brand": "Samsung", "model": "A80", "case_type": "Силиконовая панель", "gender": "Женский", "price": 17, "quantity": 2, "color": "Розовый"},
+{"brand": "Samsung", "model": "A80", "case_type": "Чехол книжка", "gender": "Мужской", "price": 20, "quantity": 1, "color": "Коричневый"},
+{"brand": "Samsung", "model": "A80", "case_type": "Чехол книжка", "gender": "Женский", "price": 19, "quantity": 4, "color": "Красный"},
+
+{"brand": "Samsung", "model": "A90", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 19, "quantity": 2, "color": "Темно-синий"},
+{"brand": "Samsung", "model": "A90", "case_type": "Силиконовая панель", "gender": "Женский", "price": 18, "quantity": 3, "color": "Желтый"},
+{"brand": "Samsung", "model": "A90", "case_type": "Чехол книжка", "gender": "Мужской", "price": 21, "quantity": 2, "color": "Серый"},
+{"brand": "Samsung", "model": "A90", "case_type": "Чехол книжка", "gender": "Женский", "price": 20, "quantity": 1, "color": "Голубой"},
+
+{"brand": "Samsung", "model": "A12", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 14, "quantity": 3, "color": "Черный"},
+{"brand": "Samsung", "model": "A12", "case_type": "Силиконовая панель", "gender": "Женский", "price": 13, "quantity": 2, "color": "Розовый"},
+{"brand": "Samsung", "model": "A12", "case_type": "Чехол книжка", "gender": "Мужской", "price": 16, "quantity": 1, "color": "Коричневый"},
+{"brand": "Samsung", "model": "A12", "case_type": "Чехол книжка", "gender": "Женский", "price": 15, "quantity": 4, "color": "Красный"},
+
+{"brand": "Samsung", "model": "A13 5G", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 15, "quantity": 2, "color": "Темно-синий"},
+{"brand": "Samsung", "model": "A13 5G", "case_type": "Силиконовая панель", "gender": "Женский", "price": 14, "quantity": 3, "color": "Желтый"},
+{"brand": "Samsung", "model": "A13 5G", "case_type": "Чехол книжка", "gender": "Мужской", "price": 17, "quantity": 2, "color": "Серый"},
+{"brand": "Samsung", "model": "A13 5G", "case_type": "Чехол книжка", "gender": "Женский", "price": 16, "quantity": 1, "color": "Голубой"},
+
+{"brand": "Samsung", "model": "A13 4G", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 16, "quantity": 3, "color": "Красный"},
+{"brand": "Samsung", "model": "A13 4G", "case_type": "Силиконовая панель", "gender": "Женский", "price": 15, "quantity": 2, "color": "Лавандовый"},
+{"brand": "Samsung", "model": "A13 4G", "case_type": "Чехол книжка", "gender": "Мужской", "price": 18, "quantity": 4, "color": "Черный"},
+{"brand": "Samsung", "model": "A13 4G", "case_type": "Чехол книжка", "gender": "Женский", "price": 17, "quantity": 2, "color": "Золотистый"},
+
+{"brand": "Samsung", "model": "A14", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 16, "quantity": 3, "color": "Черный"},
+{"brand": "Samsung", "model": "A14", "case_type": "Силиконовая панель", "gender": "Женский", "price": 15, "quantity": 2, "color": "Розовый"},
+{"brand": "Samsung", "model": "A14", "case_type": "Чехол книжка", "gender": "Мужской", "price": 18, "quantity": 1, "color": "Коричневый"},
+{"brand": "Samsung", "model": "A14", "case_type": "Чехол книжка", "gender": "Женский", "price": 17, "quantity": 4, "color": "Красный"},
+
+{"brand": "Samsung", "model": "A15", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 17, "quantity": 2, "color": "Темно-синий"},
+{"brand": "Samsung", "model": "A15", "case_type": "Силиконовая панель", "gender": "Женский", "price": 16, "quantity": 3, "color": "Желтый"},
+{"brand": "Samsung", "model": "A15", "case_type": "Чехол книжка", "gender": "Мужской", "price": 19, "quantity": 2, "color": "Серый"},
+{"brand": "Samsung", "model": "A15", "case_type": "Чехол книжка", "gender": "Женский", "price": 18, "quantity": 1, "color": "Голубой"},
+
+{"brand": "Samsung", "model": "A16", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 18, "quantity": 3, "color": "Красный"},
+{"brand": "Samsung", "model": "A16", "case_type": "Силиконовая панель", "gender": "Женский", "price": 17, "quantity": 2, "color": "Лавандовый"},
+{"brand": "Samsung", "model": "A16", "case_type": "Чехол книжка", "gender": "Мужской", "price": 20, "quantity": 4, "color": "Черный"},
+{"brand": "Samsung", "model": "A16", "case_type": "Чехол книжка", "gender": "Женский", "price": 19, "quantity": 2, "color": "Золотистый"},
+
+{"brand": "Samsung", "model": "A21", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 15, "quantity": 3, "color": "Черный"},
+{"brand": "Samsung", "model": "A21", "case_type": "Силиконовая панель", "gender": "Женский", "price": 14, "quantity": 2, "color": "Розовый"},
+{"brand": "Samsung", "model": "A21", "case_type": "Чехол книжка", "gender": "Мужской", "price": 17, "quantity": 1, "color": "Коричневый"},
+{"brand": "Samsung", "model": "A21", "case_type": "Чехол книжка", "gender": "Женский", "price": 16, "quantity": 4, "color": "Красный"},
+
+{"brand": "Samsung", "model": "A21s", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 15, "quantity": 3, "color": "Черный"},
+{"brand": "Samsung", "model": "A21s", "case_type": "Силиконовая панель", "gender": "Женский", "price": 14, "quantity": 2, "color": "Розовый"},
+{"brand": "Samsung", "model": "A21s", "case_type": "Чехол книжка", "gender": "Мужской", "price": 17, "quantity": 1, "color": "Коричневый"},
+{"brand": "Samsung", "model": "A21s", "case_type": "Чехол книжка", "gender": "Женский", "price": 16, "quantity": 4, "color": "Красный"},
+
+{"brand": "Samsung", "model": "A31", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 16, "quantity": 2, "color": "Темно-синий"},
+{"brand": "Samsung", "model": "A31", "case_type": "Силиконовая панель", "gender": "Женский", "price": 15, "quantity": 3, "color": "Желтый"},
+{"brand": "Samsung", "model": "A31", "case_type": "Чехол книжка", "gender": "Мужской", "price": 18, "quantity": 2, "color": "Серый"},
+{"brand": "Samsung", "model": "A31", "case_type": "Чехол книжка", "gender": "Женский", "price": 17, "quantity": 1, "color": "Голубой"},
+
+{"brand": "Samsung", "model": "A41", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 17, "quantity": 3, "color": "Красный"},
+{"brand": "Samsung", "model": "A41", "case_type": "Силиконовая панель", "gender": "Женский", "price": 16, "quantity": 2, "color": "Лавандовый"},
+{"brand": "Samsung", "model": "A41", "case_type": "Чехол книжка", "gender": "Мужской", "price": 19, "quantity": 4, "color": "Черный"},
+{"brand": "Samsung", "model": "A41", "case_type": "Чехол книжка", "gender": "Женский", "price": 18, "quantity": 2, "color": "Золотистый"},
+
+{"brand": "Samsung", "model": "A51", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 18, "quantity": 2, "color": "Темно-зеленый"},
+{"brand": "Samsung", "model": "A51", "case_type": "Силиконовая панель", "gender": "Женский", "price": 17, "quantity": 1, "color": "Фиолетовый"},
+{"brand": "Samsung", "model": "A51", "case_type": "Чехол книжка", "gender": "Мужской", "price": 20, "quantity": 3, "color": "Синий"},
+{"brand": "Samsung", "model": "A51", "case_type": "Чехол книжка", "gender": "Женский", "price": 19, "quantity": 2, "color": "Бежевый"},
+
+{"brand": "Samsung", "model": "A71", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 18, "quantity": 2, "color": "Темно-синий"},
+{"brand": "Samsung", "model": "A71", "case_type": "Силиконовая панель", "gender": "Женский", "price": 17, "quantity": 3, "color": "Желтый"},
+{"brand": "Samsung", "model": "A71", "case_type": "Чехол книжка", "gender": "Мужской", "price": 20, "quantity": 2, "color": "Серый"},
+{"brand": "Samsung", "model": "A71", "case_type": "Чехол книжка", "gender": "Женский", "price": 19, "quantity": 1, "color": "Голубой"},
+
+{"brand": "Samsung", "model": "A22 4G", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 16, "quantity": 3, "color": "Черный"},
+{"brand": "Samsung", "model": "A22 4G", "case_type": "Силиконовая панель", "gender": "Женский", "price": 15, "quantity": 2, "color": "Розовый"},
+{"brand": "Samsung", "model": "A22 4G", "case_type": "Чехол книжка", "gender": "Мужской", "price": 18, "quantity": 1, "color": "Коричневый"},
+{"brand": "Samsung", "model": "A22 4G", "case_type": "Чехол книжка", "gender": "Женский", "price": 17, "quantity": 4, "color": "Красный"},
+
+{"brand": "Samsung", "model": "A22 5G", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 17, "quantity": 2, "color": "Темно-синий"},
+{"brand": "Samsung", "model": "A22 5G", "case_type": "Силиконовая панель", "gender": "Женский", "price": 16, "quantity": 3, "color": "Желтый"},
+{"brand": "Samsung", "model": "A22 5G", "case_type": "Чехол книжка", "gender": "Мужской", "price": 19, "quantity": 2, "color": "Серый"},
+{"brand": "Samsung", "model": "A22 5G", "case_type": "Чехол книжка", "gender": "Женский", "price": 18, "quantity": 1, "color": "Голубой"},
+
+{"brand": "Samsung", "model": "A32 4G", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 18, "quantity": 3, "color": "Красный"},
+{"brand": "Samsung", "model": "A32 4G", "case_type": "Силиконовая панель", "gender": "Женский", "price": 17, "quantity": 2, "color": "Лавандовый"},
+{"brand": "Samsung", "model": "A32 4G", "case_type": "Чехол книжка", "gender": "Мужской", "price": 20, "quantity": 4, "color": "Черный"},
+{"brand": "Samsung", "model": "A32 4G", "case_type": "Чехол книжка", "gender": "Женский", "price": 19, "quantity": 2, "color": "Золотистый"},
+
+{"brand": "Samsung", "model": "A32 5G", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 19, "quantity": 2, "color": "Темно-зеленый"},
+{"brand": "Samsung", "model": "A32 5G", "case_type": "Силиконовая панель", "gender": "Женский", "price": 18, "quantity": 1, "color": "Фиолетовый"},
+{"brand": "Samsung", "model": "A32 5G", "case_type": "Чехол книжка", "gender": "Мужской", "price": 21, "quantity": 3, "color": "Синий"},
+{"brand": "Samsung", "model": "A32 5G", "case_type": "Чехол книжка", "gender": "Женский", "price": 20, "quantity": 2, "color": "Бежевый"},
+
+{"brand": "Samsung", "model": "A42", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 18, "quantity": 2, "color": "Темно-синий"},
+{"brand": "Samsung", "model": "A42", "case_type": "Силиконовая панель", "gender": "Женский", "price": 17, "quantity": 3, "color": "Желтый"},
+{"brand": "Samsung", "model": "A42", "case_type": "Чехол книжка", "gender": "Мужской", "price": 20, "quantity": 2, "color": "Серый"},
+{"brand": "Samsung", "model": "A42", "case_type": "Чехол книжка", "gender": "Женский", "price": 19, "quantity": 1, "color": "Голубой"},
+
+{"brand": "Samsung", "model": "A52", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 19, "quantity": 3, "color": "Черный"},
+{"brand": "Samsung", "model": "A52", "case_type": "Силиконовая панель", "gender": "Женский", "price": 18, "quantity": 2, "color": "Розовый"},
+{"brand": "Samsung", "model": "A52", "case_type": "Чехол книжка", "gender": "Мужской", "price": 21, "quantity": 1, "color": "Коричневый"},
+{"brand": "Samsung", "model": "A52", "case_type": "Чехол книжка", "gender": "Женский", "price": 20, "quantity": 4, "color": "Красный"},
+
+{"brand": "Samsung", "model": "A72", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 20, "quantity": 3, "color": "Черный"},
+{"brand": "Samsung", "model": "A72", "case_type": "Силиконовая панель", "gender": "Женский", "price": 19, "quantity": 2, "color": "Розовый"},
+{"brand": "Samsung", "model": "A72", "case_type": "Чехол книжка", "gender": "Мужской", "price": 22, "quantity": 1, "color": "Коричневый"},
+{"brand": "Samsung", "model": "A72", "case_type": "Чехол книжка", "gender": "Женский", "price": 21, "quantity": 4, "color": "Красный"},
+
+{"brand": "Samsung", "model": "A23", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 18, "quantity": 2, "color": "Темно-синий"},
+{"brand": "Samsung", "model": "A23", "case_type": "Силиконовая панель", "gender": "Женский", "price": 17, "quantity": 3, "color": "Желтый"},
+{"brand": "Samsung", "model": "A23", "case_type": "Чехол книжка", "gender": "Мужской", "price": 20, "quantity": 2, "color": "Серый"},
+{"brand": "Samsung", "model": "A23", "case_type": "Чехол книжка", "gender": "Женский", "price": 19, "quantity": 1, "color": "Голубой"},
+
+{"brand": "Samsung", "model": "A33", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 20, "quantity": 3, "color": "Красный"},
+{"brand": "Samsung", "model": "A33", "case_type": "Силиконовая панель", "gender": "Женский", "price": 19, "quantity": 2, "color": "Лавандовый"},
+{"brand": "Samsung", "model": "A33", "case_type": "Чехол книжка", "gender": "Мужской", "price": 22, "quantity": 4, "color": "Черный"},
+{"brand": "Samsung", "model": "A33", "case_type": "Чехол книжка", "gender": "Женский", "price": 21, "quantity": 2, "color": "Золотистый"},
+
+{"brand": "Samsung", "model": "A53", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 21, "quantity": 2, "color": "Темно-зеленый"},
+{"brand": "Samsung", "model": "A53", "case_type": "Силиконовая панель", "gender": "Женский", "price": 20, "quantity": 1, "color": "Фиолетовый"},
+{"brand": "Samsung", "model": "A53", "case_type": "Чехол книжка", "gender": "Мужской", "price": 23, "quantity": 3, "color": "Синий"},
+{"brand": "Samsung", "model": "A53", "case_type": "Чехол книжка", "gender": "Женский", "price": 22, "quantity": 2, "color": "Бежевый"},
+
+{"brand": "Samsung", "model": "A25", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 18, "quantity": 3, "color": "Черный"},
+{"brand": "Samsung", "model": "A25", "case_type": "Силиконовая панель", "gender": "Женский", "price": 17, "quantity": 2, "color": "Розовый"},
+{"brand": "Samsung", "model": "A25", "case_type": "Чехол книжка", "gender": "Мужской", "price": 20, "quantity": 1, "color": "Коричневый"},
+{"brand": "Samsung", "model": "A25", "case_type": "Чехол книжка", "gender": "Женский", "price": 19, "quantity": 4, "color": "Красный"},
+
+{"brand": "Samsung", "model": "A35", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 19, "quantity": 2, "color": "Темно-синий"},
+{"brand": "Samsung", "model": "A35", "case_type": "Силиконовая панель", "gender": "Женский", "price": 18, "quantity": 3, "color": "Желтый"},
+{"brand": "Samsung", "model": "A35", "case_type": "Чехол книжка", "gender": "Мужской", "price": 21, "quantity": 2, "color": "Серый"},
+{"brand": "Samsung", "model": "A35", "case_type": "Чехол книжка", "gender": "Женский", "price": 20, "quantity": 1, "color": "Голубой"},
+
+{"brand": "Samsung", "model": "A55", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 20, "quantity": 3, "color": "Красный"},
+{"brand": "Samsung", "model": "A55", "case_type": "Силиконовая панель", "gender": "Женский", "price": 19, "quantity": 2, "color": "Лавандовый"},
+{"brand": "Samsung", "model": "A55", "case_type": "Чехол книжка", "gender": "Мужской", "price": 22, "quantity": 4, "color": "Черный"},
+{"brand": "Samsung", "model": "A55", "case_type": "Чехол книжка", "gender": "Женский", "price": 21, "quantity": 2, "color": "Золотистый"},
+
+{"brand": "Samsung", "model": "Note 8", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 12, "quantity": 3, "color": "Черный"},
+{"brand": "Samsung", "model": "Note 8", "case_type": "Силиконовая панель", "gender": "Женский", "price": 13, "quantity": 2, "color": "Розовый"},
+{"brand": "Samsung", "model": "Note 8", "case_type": "Чехол книжка", "gender": "Мужской", "price": 15, "quantity": 1, "color": "Коричневый"},
+{"brand": "Samsung", "model": "Note 8", "case_type": "Чехол книжка", "gender": "Женский", "price": 15, "quantity": 4, "color": "Красный"},
+
+{"brand": "Samsung", "model": "Note 9", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 11, "quantity": 2, "color": "Темно-синий"},
+{"brand": "Samsung", "model": "Note 9", "case_type": "Силиконовая панель", "gender": "Женский", "price": 12, "quantity": 3, "color": "Желтый"},
+{"brand": "Samsung", "model": "Note 9", "case_type": "Чехол книжка", "gender": "Мужской", "price": 11, "quantity": 2, "color": "Серый"},
+{"brand": "Samsung", "model": "Note 9", "case_type": "Чехол книжка", "gender": "Женский", "price": 12, "quantity": 1, "color": "Голубой"},
+
+{"brand": "Samsung", "model": "Note 10", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 8, "quantity": 3, "color": "Красный"},
+{"brand": "Samsung", "model": "Note 10", "case_type": "Силиконовая панель", "gender": "Женский", "price": 8, "quantity": 2, "color": "Лавандовый"},
+{"brand": "Samsung", "model": "Note 10", "case_type": "Чехол книжка", "gender": "Мужской", "price": 10, "quantity": 4, "color": "Черный"},
+{"brand": "Samsung", "model": "Note 10", "case_type": "Чехол книжка", "gender": "Женский", "price": 14, "quantity": 2, "color": "Золотистый"},
+
+{"brand": "Samsung", "model": "Note 10 Pro", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 9, "quantity": 3, "color": "Черный"},
+{"brand": "Samsung", "model": "Note 10 Pro", "case_type": "Силиконовая панель", "gender": "Женский", "price": 12, "quantity": 2, "color": "Розовый"},
+{"brand": "Samsung", "model": "Note 10 Pro", "case_type": "Чехол книжка", "gender": "Мужской", "price": 14, "quantity": 1, "color": "Коричневый"},
+{"brand": "Samsung", "model": "Note 10 Pro", "case_type": "Чехол книжка", "gender": "Женский", "price": 10, "quantity": 4, "color": "Красный"},
+
+{"brand": "Samsung", "model": "Note 10 Plus", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 13, "quantity": 2, "color": "Темно-зеленый"},
+{"brand": "Samsung", "model": "Note 10 Plus", "case_type": "Силиконовая панель", "gender": "Женский", "price": 8, "quantity": 1, "color": "Фиолетовый"},
+{"brand": "Samsung", "model": "Note 10 Plus", "case_type": "Чехол книжка", "gender": "Мужской", "price": 12, "quantity": 3, "color": "Синий"},
+{"brand": "Samsung", "model": "Note 10 Plus", "case_type": "Чехол книжка", "gender": "Женский", "price": 15, "quantity": 2, "color": "Бежевый"},
+
+{"brand": "Samsung", "model": "Note 20", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 8, "quantity": 3, "color": "Черный"},
+{"brand": "Samsung", "model": "Note 20", "case_type": "Силиконовая панель", "gender": "Женский", "price": 11, "quantity": 2, "color": "Розовый"},
+{"brand": "Samsung", "model": "Note 20", "case_type": "Чехол книжка", "gender": "Мужской", "price": 10, "quantity": 1, "color": "Коричневый"},
+{"brand": "Samsung", "model": "Note 20", "case_type": "Чехол книжка", "gender": "Женский", "price": 13, "quantity": 4, "color": "Красный"},
+
+{"brand": "Samsung", "model": "Note 20 Ultra", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 13, "quantity": 2, "color": "Темно-синий"},
+{"brand": "Samsung", "model": "Note 20 Ultra", "case_type": "Силиконовая панель", "gender": "Женский", "price": 13, "quantity": 3, "color": "Желтый"},
+{"brand": "Samsung", "model": "Note 20 Ultra", "case_type": "Чехол книжка", "gender": "Мужской", "price": 10, "quantity": 2, "color": "Серый"},
+{"brand": "Samsung", "model": "Note 20 Ultra", "case_type": "Чехол книжка", "gender": "Женский", "price": 15, "quantity": 1, "color": "Голубой"},
+
+{"brand": "Samsung", "model": "Note 20 Plus", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 10, "quantity": 2, "color": "Темно-синий"},
+{"brand": "Samsung", "model": "Note 20 Plus", "case_type": "Силиконовая панель", "gender": "Женский", "price": 9, "quantity": 3, "color": "Желтый"},
+{"brand": "Samsung", "model": "Note 20 Plus", "case_type": "Чехол книжка", "gender": "Мужской", "price": 13, "quantity": 2, "color": "Серый"},
+{"brand": "Samsung", "model": "Note 20 Plus", "case_type": "Чехол книжка", "gender": "Женский", "price": 13, "quantity": 1, "color": "Голубой"},
+
+{"brand": "Samsung", "model": "Z Fold 5", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 35, "quantity": 3, "color": "Черный"},
+{"brand": "Samsung", "model": "Z Fold 5", "case_type": "Силиконовая панель", "gender": "Женский", "price": 34, "quantity": 2, "color": "Розовый"},
+{"brand": "Samsung", "model": "Z Fold 5", "case_type": "Чехол книжка", "gender": "Мужской", "price": 38, "quantity": 1, "color": "Коричневый"},
+{"brand": "Samsung", "model": "Z Fold 5", "case_type": "Чехол книжка", "gender": "Женский", "price": 37, "quantity": 4, "color": "Красный"},
+
+{"brand": "Samsung", "model": "Z Flip 5", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 30, "quantity": 3, "color": "Синий"},
+{"brand": "Samsung", "model": "Z Flip 5", "case_type": "Силиконовая панель", "gender": "Женский", "price": 29, "quantity": 2, "color": "Желтый"},
+{"brand": "Samsung", "model": "Z Flip 5", "case_type": "Чехол книжка", "gender": "Мужской", "price": 32, "quantity": 1, "color": "Серый"},
+{"brand": "Samsung", "model": "Z Flip 5", "case_type": "Чехол книжка", "gender": "Женский", "price": 31, "quantity": 4, "color": "Голубой"},
+
+{"brand": "Samsung", "model": "Z Fold 4", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 33, "quantity": 3, "color": "Красный"},
+{"brand": "Samsung", "model": "Z Fold 4", "case_type": "Силиконовая панель", "gender": "Женский", "price": 32, "quantity": 2, "color": "Лавандовый"},
+{"brand": "Samsung", "model": "Z Fold 4", "case_type": "Чехол книжка", "gender": "Мужской", "price": 36, "quantity": 4, "color": "Черный"},
+{"brand": "Samsung", "model": "Z Fold 4", "case_type": "Чехол книжка", "gender": "Женский", "price": 35, "quantity": 2, "color": "Золотистый"},
+
+{"brand": "Samsung", "model": "Z Flip 4", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 28, "quantity": 3, "color": "Темно-зеленый"},
+{"brand": "Samsung", "model": "Z Flip 4", "case_type": "Силиконовая панель", "gender": "Женский", "price": 27, "quantity": 2, "color": "Фиолетовый"},
+{"brand": "Samsung", "model": "Z Flip 4", "case_type": "Чехол книжка", "gender": "Мужской", "price": 31, "quantity": 1, "color": "Синий"},
+{"brand": "Samsung", "model": "Z Flip 4", "case_type": "Чехол книжка", "gender": "Женский", "price": 30, "quantity": 2, "color": "Бежевый"},
+
+{"brand": "Samsung", "model": "Z Fold 3", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 31, "quantity": 2, "color": "Темно-синий"},
+{"brand": "Samsung", "model": "Z Fold 3", "case_type": "Силиконовая панель", "gender": "Женский", "price": 30, "quantity": 1, "color": "Фиолетовый"},
+{"brand": "Samsung", "model": "Z Fold 3", "case_type": "Чехол книжка", "gender": "Мужской", "price": 34, "quantity": 3, "color": "Черный"},
+{"brand": "Samsung", "model": "Z Fold 3", "case_type": "Чехол книжка", "gender": "Женский", "price": 33, "quantity": 2, "color": "Золотистый"},
+
+{"brand": "Samsung", "model": "Z Flip 3", "case_type": "Силиконовая панель", "gender": "Мужской", "price": 27, "quantity": 2, "color": "Графитовый"},
+{"brand": "Samsung", "model": "Z Flip 3", "case_type": "Силиконовая панель", "gender": "Женский", "price": 26, "quantity": 1, "color": "Персиковый"},
+{"brand": "Samsung", "model": "Z Flip 3", "case_type": "Чехол книжка", "gender": "Мужской", "price": 29, "quantity": 3, "color": "Темно-серый"},
+{"brand": "Samsung", "model": "Z Flip 3", "case_type": "Чехол книжка", "gender": "Женский", "price": 28, "quantity": 2, "color": "Лиловый"}
+  ]
+}
