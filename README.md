@@ -1,70 +1,64 @@
-# Case Management System — Phone Accessories Inventory App
+# Stock Tracker — Phone Accessories Inventory & Sales System
 
-Case Management System is a frontend web application for managing phone case inventory in a phone accessories store.
-
-The project helps store staff add new products, search and filter existing items, track product availability, and organize phone case data in a simple warehouse workflow.
+A full-stack web application for managing screen protector inventory across two retail locations, built for a phone accessories store. The system replaced a manual paper-based process with a live, database-backed tool used daily by store staff.
 
 ## Overview
 
-The goal of this project was to create a practical inventory management tool for a phone accessories store.
+The goal of this project was to build a practical, production-ready inventory tool — not just a frontend demo. It evolved from a simple product list into a full-stack application with a real database, a secure PHP backend, and an AI-powered feature that turns handwritten sales sheets into structured, exportable data.
 
-The interface focuses on everyday store tasks: adding new case models, checking stock quantity, filtering products by different criteria, and keeping data available after the page is reopened.
+The interface is built around real store workflows: adding and removing stock without creating duplicate entries, searching and filtering by multiple criteria at once, and generating sales reports without manual data entry.
 
 ## Features
 
-- Add new phone case products
-- Store product information such as brand, model, color, price, quantity, type, and gender category
-- Search and filter products by multiple criteria
-- Show product availability: “In stock” / “Out of stock”
-- Save data using localStorage
-- Load saved data when the page opens again
-- Work with structured JSON data
-- Responsive interface for different screen sizes
+- Add and remove stock through a single form; identical products (same brand, model, type, and store) update their existing quantity instead of creating duplicates, enforced at the database level with a unique key constraint
+- Search and filter inventory by brand, model, type, availability, and store, with model suggestions pulled live from existing stock
+- Two-store inventory tracking with color-coded store badges
+- AI-powered sales sheet digitization: upload a photo of a handwritten sales log, and Claude's vision model extracts each row into an editable table, flagging low-confidence fields for manual review
+- One-click export of the reviewed sales data to a formatted `.xlsx` file matching the store's existing paperwork, generated client-side
+- Deployed and accessible to store staff from any device, backed by a live MySQL database
 
 ## Tech Stack
 
-- HTML5
-- CSS3
-- Bootstrap
-- JavaScript
-- JSON
-- localStorage
-- Fetch API
+- **Frontend:** HTML5, CSS3, Bootstrap, JavaScript (ES6+), Fetch API
+- **Backend:** PHP, MySQL (mysqli), cURL
+- **AI Integration:** Claude API (vision) for handwriting recognition and structured data extraction
+- **Data export:** SheetJS (client-side `.xlsx` generation)
+- **Hosting:** deployed on a live MySQL-backed PHP host
 
 ## My Role
 
-I worked on the frontend implementation of the project, including:
+I designed and built the entire system solo, end to end, including:
 
-- Page structure and layout
-- Product form interface
-- JavaScript logic for adding and displaying products
-- Filtering and search functionality
-- Availability status logic
-- localStorage data saving
-- Working with JSON files for product/model data
-- Responsive UI styling
+- Database schema design, including a unique-key constraint to prevent duplicate inventory rows
+- PHP backend endpoints for adding, removing, searching, and reading inventory data
+- Frontend interface, state handling, and dynamic table rendering in vanilla JavaScript
+- Integration with the Claude API for image-based data extraction, including prompt design and response parsing
+- Client-side Excel report generation matching an existing business document format
+- Full deployment: database migration, secure credential handling, and hosting setup
 
-## Key Frontend Tasks
+## Key Tasks
 
-- Built the interface for adding new warehouse products
-- Created dynamic product rendering with JavaScript
-- Implemented search and filtering by brand, model, type, gender, price, and quantity
-- Added localStorage logic to keep data after page reload
-- Used JSON files to structure product and model data
-- Created stock availability states based on quantity
-- Styled the interface with Bootstrap and custom CSS
+- Diagnosed and fixed a data-duplication bug by introducing a composite unique key and an `INSERT ... ON DUPLICATE KEY UPDATE` pattern
+- Built a photo-upload and preview flow, then wired it to a PHP endpoint that securely proxies image data to the Claude API and returns cleaned, structured JSON
+- Designed an editable results table that highlights AI-flagged low-confidence fields for quick human review before saving
+- Implemented dynamic search filters and live model autocomplete based on current stock, not a hardcoded list
+- Migrated the local development database to production and resolved a character-encoding issue affecting non-Latin text
+- Secured API credentials via a gitignored config file and GitHub push-protection compliance
 
 ## Project Structure
 
 ```bash
-case-management-system/
+inventory-app/
 ├── index.html
+├── app.js
 ├── css/
 │   └── styles.css
-├── js/
-│   └── script.js
-├── data/
-│   ├── models.json
-│   └── cases.json
-├── images/
+├── db.php
+├── config.php           # not tracked in git — holds the API key
+├── add_glass.php
+├── remove_glass.php
+├── get_glasses.php
+├── analyze_photo.php    # Claude API integration
+├── schema.sql
 └── README.md
+```
